@@ -1807,10 +1807,15 @@
     defaults "^2.0.2"
     type-fest "^4.3.1"
 
-"@markprompt/css@^0.17.2", "@markprompt/css@^0.17.3":
+"@markprompt/css@^0.17.2":
   version "0.17.3"
   resolved "https://registry.yarnpkg.com/@markprompt/css/-/css-0.17.3.tgz#36119a0add333246fbb386580c20a92ced6e45c1"
   integrity sha512-e8wEhYGnyjvEnZuzbEThCvVFLMe7jqp78BeNIHxkhYyCIsZqMl6RJoxY/55wLyll7lJ+wMOx7BMq5+kNDIeKqg==
+
+"@markprompt/css@^0.23.3":
+  version "0.23.4"
+  resolved "https://registry.yarnpkg.com/@markprompt/css/-/css-0.23.4.tgz#2f25b4b4b6c182c374ded56a5b03f07e1de2f5a3"
+  integrity sha512-O6V826tTOMgGi9BsKf22HrSvU8RJHgE26xVhL0okb2zT9TBMxpmAERq8LQM5nlmc0XALRJsnITWcTwo5gUGY+Q==
 
 "@markprompt/docusaurus-theme-search@^0.13.13":
   version "0.13.13"
