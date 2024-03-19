@@ -26,7 +26,7 @@
     "@docusaurus/theme-classic": "^2.4.3",
     "@docusaurus/theme-search-algolia": "^2.4.3",
     "@markprompt/css": "^0.17.3",
-    "@markprompt/docusaurus-theme-search": "^0.13.13",
+    "@markprompt/docusaurus-theme-search": "^0.18.3",
     "@markprompt/web": "^0.20.5",
     "@mdx-js/react": "1.6.22",
     "clsx": "1.2.1",
